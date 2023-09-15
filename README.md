@@ -23,7 +23,7 @@ npm install express body-parser nodemon qrcode
 1. In the same terminal, type:
 2. After typing it in, you should be greeted with the message of the server running on a port
 ```
-node app.js
+node mdToHtml.js
 Server is running on port: 3000
 ```
 
